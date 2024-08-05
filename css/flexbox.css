@@ -70,6 +70,7 @@
 
 .videoSobre-video {
     flex-grow: 1;
+    flex-shrink: 5;
 }
 
 @media screen and (max-width: 768px){
@@ -116,4 +117,6 @@
     .cabecalhoPrincipal-nav-link-app {
         order: -1;
     }
+
+    
 }
