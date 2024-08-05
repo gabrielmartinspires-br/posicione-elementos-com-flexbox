@@ -78,9 +78,19 @@
 
     .rodapePrincipal-patrocinadores .container {
         flex-direction: column;
+        align-items: center;
     }
 
     .rodapePrincipal-patrocinadores-list {
-        flex-direction: column;
+        margin: 0;
+        width: 100%;
+    }
+
+    .rodapePrincipal-contatoForm {
+        width: 100%;
+    }
+
+    .rodapePrincipal-contatoForm-fieldset  {
+        justify-content: center;
     }
 }
