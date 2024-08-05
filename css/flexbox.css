@@ -35,3 +35,11 @@
     height: 252px;
 }
 
+.conteudoPrincipal-cursos {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.conteudoPrincipal-cursos-link {
+    width: 20%;
+}
