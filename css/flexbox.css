@@ -63,4 +63,24 @@
         align-items: initial;
         text-align: center;
     }
+
+    .conteudoPrincipal-cursos {
+        flex-direction: column;
+    }
+
+    .conteudoPrincipal-cursos-link {
+        width: 100%;
+    }
+
+    .rodapePrincipal-navMap-list {
+        height: auto;
+    }
+
+    .rodapePrincipal-patrocinadores .container {
+        flex-direction: column;
+    }
+
+    .rodapePrincipal-patrocinadores-list {
+        flex-direction: column;
+    }
 }
