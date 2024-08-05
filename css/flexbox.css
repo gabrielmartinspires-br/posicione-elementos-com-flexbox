@@ -52,3 +52,14 @@
 .conteudoPrincipal-cursos-link:nth-child(4n+1) {
     margin-left: 0;
 }
+
+@media screen and (max-width: 360px){
+    .cabecalhoPrincipal-nav {
+        flex-direction: column;
+    }
+
+    .cabecalhoPrincipal .container {
+        flex-direction: column;
+        align-items: initial;
+    }
+}
