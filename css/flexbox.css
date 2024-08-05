@@ -64,6 +64,10 @@
     flex-grow: 1;
 }
 
+.videoSobre-sobre-list {
+    flex-grow: 1;
+}
+
 @media screen and (max-width: 768px){
     .cabecalhoPrincipal-nav {
         flex-direction: column;
