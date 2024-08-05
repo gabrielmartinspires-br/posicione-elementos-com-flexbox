@@ -45,6 +45,6 @@
     margin-bottom: 1%;
 }
 
-..conteudoPrincipal-cursos-link:nth-child(4n) {
+.conteudoPrincipal-cursos-link:nth-child(4n) {
     margin-right: 0;
 }
