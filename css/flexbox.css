@@ -121,4 +121,8 @@
     .videoSobre .container {
         flex-direction: column;
     }
+
+    .videoSobre-video {
+        margin: 0 auto;
+    }
 }
