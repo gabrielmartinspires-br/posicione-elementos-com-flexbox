@@ -12,3 +12,11 @@
     display: flex;
     justify-content: space-between;
 }
+
+.rodapePrincipal-patrocinadores-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 70%;
+    margin-right: 5%;
+}
